@@ -1,0 +1,319 @@
+{
+  "menu": [
+    {
+      "title": "Burguer 150g - Especial",
+      "data": [
+        {
+          "id": "1",
+          "title": "CALABRESO",
+          "price": 30,
+          "description": "Pão australiano, Hambúrguer de 150g, Cebola caramelizada, Calabresa, Picles, Catupiry Original quatro queijos.",
+        "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/calabreso.png",
+        "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/calabreso.jpg"
+        },
+        {
+          "id": "2",
+          "title": "BURGUER DO THIAGÃO",
+          "price": 22,
+          "description": "Pão australiano, Hambúrguer de 150g, Picles, cebola roxa e cheddar fatiado.",
+        "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/burguer-do-thiagao.png",
+        "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/burguer-do-thiagao.png"
+        },
+        {
+          "id": "3",
+          "title": "CREMOSINHO",
+          "price": 35,
+          "description": "Pão de brioche, Hambúrguer de 150g, Bacon em cubos, Cebola roxa, Catupiry Original e queijo prato.",
+        "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/cremosinho.png",
+        "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/cremosinho.png"
+        },
+        {
+          "id": "4",
+          "title": "AUSTRALIANO",
+          "price": 49,
+          "description": "Pão australiano, Hambúrguer de 150g Com Provolone, cheddar fatiado, bacon, cebola caramelizada, geleia de pimenta, alface, tomate, cebola roxa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/australiano.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/australiano.png"
+        },
+        {
+          "id": "5",
+          "title": "PARRUDO",
+          "price": 38,
+          "description": "Pão de brioche, 2 hambúrgueres de 150g, Calabresa, Tomate, cebola roxa, queijo prato e bacon.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/parrudo.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/parrudo.png"
+        },
+        {
+          "id": "6",
+          "title": "FRANGUITO",
+          "price": 27,
+          "description": "Pão de brioche, stake de frango empanado, queijo prato, alface, tomate, cebola roxa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/franguito.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/franguito.png"
+        },
+        {
+          "id": "7",
+          "title": "VEGETARIANO",
+          "price": 27,
+          "description": "Pão de brioche, Hambúrguer de brócolis 150g, queijo prato, alface, tomate, cebola roxa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/vegetariano.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/vegetariano.png"
+        },
+        {
+          "id": "8",
+          "title": "DOCE DE LEITE",
+          "price": 31,
+          "description": "Pão de brioche, hambúrguer de 150g, queijo provolone, doce de leite e bacon em cubos",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/doce-de-leite.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/doce-de-leite.png"
+        }
+      ]
+    },
+    {
+      "title": "Burguer 150g",
+      "data": [
+        {
+          "id": "9",
+          "title": "X BURGUER DE 150G",
+          "price": 19,
+          "description": "Os ingredientes desse hambúrguer mudam toda semana, então você sempre terá uma surpresa...",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-burguer-150g.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-burguer-150g.png"
+        },
+        {
+          "id": "10",
+          "title": "X SALADA DE 150G",
+          "price": 28,
+          "description": "Pão de brioche, hambúrguer de 150g, alface, tomate, cebola roxa e maionese da casa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-salada-150g.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-salada-150g.png"
+        },
+        {
+          "id": "11",
+          "title": "X BACON DE 150G",
+          "price": 30,
+          "description": "Pão de brioche, hambúrguer de 150g, bacon fatiado, Alface, tomate, cebola roxa e maionese da casa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-bacon-150g.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-bacon-150g.png"
+        }
+      ]
+    },
+    {
+      "title": "Burguer 80g",
+      "data": [
+        {
+          "id": "12",
+          "title": "X BURGUER DE 80G",
+          "price": 16,
+          "description": "Pão de brioche hambúrguer de 80 g Queijo prato e maionese da casa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-burguer-80g.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-burguer-80g.png"
+        },
+        {
+          "id": "13",
+          "title": "X SALADA DE 80G",
+          "price": 19,
+          "description": "Pão de brioche, hambúrguer de 80 g, queijo prato, Alface, tomate, cebola roxa e maionese da casa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-salada-80g.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-salada-80g.png"
+        },
+        {
+          "id": "14",
+          "title": "X BACON DE 80G",
+          "price": 23,
+          "description": "Pão de brioche, Hambúrguer de 80 g, Bacon, queijo prato, alface, tomate, cebola roxa e maionese da casa.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-bacon-80g.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/x-bacon-80g.png"
+        }
+      ]
+    },
+    {
+      "title": "Porções",
+      "data": [
+        {
+          "id": "15",
+          "title": "BATATA FRITA PEQUENA",
+          "price": 14,
+          "description": "Delicie-se com nossa batata frita e deixe seu lanche ainda mais completo.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-frita-pequena.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-frita-pequena.png"
+        },
+        {
+          "id": "16",
+          "title": "BATATA FRITA GRANDE",
+          "price": 24,
+          "description": "Delicie-se com nossa batata frita e deixe seu lanche ainda mais completo.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-frita-grande.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-frita-grande.png"
+        },
+        {
+          "id": "17",
+          "title": "BATATA FRITA GRANDE COM CHEDDAR E BACON",
+          "price": 30,
+          "description": "Delicie-se com nossa batata frita e deixe seu lanche ainda mais completo com pedaços de bacon.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-frita-grande-cheddar-bacon.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-frita-grande-cheddar-bacon.png"
+        },
+        {
+          "id": "18",
+          "title": "BATATA RÚSTICA INDIVIDUAL",
+          "price": 18,
+          "description": "Não fique com água na boca, leve nossa batata rústica e aprecie sem moderação.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-rustica-individual.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/batata-rustica-individual.png"
+        },
+        {
+          "id": "19",
+          "title": "ONION RINGS",
+          "price": 18,
+          "description": "A porção de onion rings empanada é um clássico aperitivo que agrada a todos! Com sua massa crocante e cebolas macias, cada mordida é uma combinação perfeita de sabores e texturas.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/onion-rings.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/onion-rings.png"
+        },
+        {
+          "id": "20",
+          "title": "NUGGTES",
+          "price": 18,
+          "description": "A porção de nuggets de frango empanado é ideal para se comer com molhos. Experimente!",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/nuggets.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/nuggets.png"
+        },
+        {
+          "id": "21",
+          "title": "BOLINHO DE CAMARÃO",
+          "price": 45,
+          "description": "Deliciosos bolinhos de camarão empanado. Serve até 2 pessoas.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/bolinho-camarao.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/bolinho-camarao.png"
+        },
+        {
+          "id": "22",
+          "title": "CROQUETE DE TILÁPIA",
+          "price": 34.9,
+          "description": "Não vai ficar só olhando ne? Inclua no seu pedido, garanto que você vai gostar!",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/croquete-tilapia.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/croquete-tilapia.png"
+        }
+      ]
+    },
+    {
+      "title": "Churros",
+      "data": [
+        {
+          "id": "23",
+          "title": "MINI CHURROS",
+          "price": 17,
+          "description": "Recheado com doce de leite polvilhado com açúcar e canela",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/mini-churros.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/mini-churros.png"
+        }
+      ]
+    },
+    {
+      "title": "Combo",
+      "data": [
+        {
+          "id": "24",
+          "title": "Alegria do Thiagão",
+          "price": 50,
+          "description": "X-Bacon de 80g, 1 Refri 350 geladinho, 1 Porção de batata frita pequena sequinha no capricho e pra fechar com chave de ouro 1 copão de churros",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/alegria-thiagao.jpg",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/alegria-thiagao.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Bebidas",
+      "data": [
+        {
+          "id": "25",
+          "title": "COCA LATA 350ML",
+          "price": 7,
+          "description": "Uma coca super gelada para acompanhar o seu super lanche.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/coca-cola-lata.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/coca-cola-lata.png"
+        },
+        {
+          "id": "26",
+          "title": "COCA LIGHT 350ML",
+          "price": 7,
+          "description": "Uma coca super gelada para acompanhar o seu super lanche.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/coca-cola-zero.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/coca-cola-zero-lata.png"
+        },
+        {
+          "id": "27",
+          "title": "GUARANÁ ANTÁRTICA LATA 350ML",
+          "price": 7,
+          "description": "Um guaraná super gelado cairia bem com o seu super lanche.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/guarana-antartica-lata.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/guarana-antartica-lata.png"
+        },
+        {
+          "id": "28",
+          "title": "FANTA LARANJA LATA 350ML",
+          "price": 7,
+          "description": "Que tal uma fanta? O match perfeito para seu lanche.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/fanta-laranja-lata.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/fanta-laranja-lata.png"
+        },
+        {
+          "id": "29",
+          "title": "SPRITE LATA 350ML",
+          "price": 7,
+          "description": "Nada como o sabor do limão geladinho para deixar seu lanche perfeito.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/sprite-lata.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/sprite-lata.png"
+        },
+        {
+          "id": "30",
+          "title": "FANTA UVA LATA 350ML",
+          "price": 7,
+          "description": "Experimente o sabor imcomparável da uva. :)",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/fanta-uva-lata.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/fanta-uva-lata.png"
+        },
+        {
+          "id": "31",
+          "title": "COCA-COLA 1 LITRO",
+          "price": 12,
+          "description": "Leve essa delícia super gelada para toda a familia.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/coca-cola-1-litro.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/coca-cola-1-litro.png"
+        },
+        {
+          "id": "32",
+          "title": "SUCO NATURAL DUVALE GOIABA",
+          "price": 7,
+          "description": "Suco da fruta no sabor goiaba.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-goiaba.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-goiaba.png"
+        },
+        {
+          "id": "33",
+          "title": "SUCO DUVALE AÇAÍ",
+          "price": 7,
+          "description": "Suco da fruta no sabor açaí.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-acai.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-acai.png"
+        },
+        {
+          "id": "34",
+          "title": "SUCO DUVALE MARACUJÁ",
+          "price": 7,
+          "description": "Suco da fruta no sabor maracujá.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-maracuja.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-maracuja.png"
+        },
+        {
+          "id": "35",
+          "title": "SUCO DUVALE CAJU",
+          "price": 7,
+          "description": "Suco da fruta no sabor caju.",
+          "cover": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-caju.png",
+          "thumbnail": "https://www.washingtonluiz.com.br/app_assets/thiagao-burguer/suco-duvale-caju.png"
+        }
+      ]
+    }
+  ]
+}
